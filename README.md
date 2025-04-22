@@ -1,5 +1,5 @@
 # falkobot
-This is a robot construction project. We start from scratch ,aquire some hardware and start coding.
+This is a robot construction project. We start from scratch ,aquire some hardware and start coding. See full english version down below.
 
 ## Projektziel
 
