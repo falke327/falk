@@ -48,7 +48,7 @@ Der Quellcode steht unter der [MIT-Lizenz](LICENSE) und darf frei verwendet, ver
 
 ## Mitwirken
 
-Dieses Projekt ist offen für Mitwirkende. Wenn du Interesse an Robotik, Python, Mikrocontrollern oder Embedded Systems hast, bist du herzlich eingeladen, Issues zu erstellen, Code beizutragen oder einfach Feedback zu geben.
+Wenn du Interesse an Robotik, Python, Mikrocontrollern oder Embedded Systems hast, kannst du dich gerne mit mir auch zu deinem Projekt austauschen, Code beitragen oder einfach Feedback zu geben.
 
 ---
 
@@ -108,7 +108,7 @@ The source code is licensed under the [MIT License](LICENSE) and may be freely u
 
 ## Contributing
 
-This project welcomes contributors. If you're interested in robotics, Python, microcontrollers, or embedded systems, feel free to open issues, submit code, or provide feedback.
+If you're interested in robotics, Python, microcontrollers, or embedded systems, you are welcome to get in contact with me, about your project as well, feel free to submit code, or provide feedback.
 
 ---
 
