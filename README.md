@@ -23,7 +23,7 @@ Das Projekt ist in folgende Hauptbereiche unterteilt:
 - `firmware/` – C-Code für Mikrocontroller (z. B. Motorsteuerung, Sensordatenverarbeitung)
 - `software/` – Python-Code für Steuerung, Navigation, Spracherkennung usw.
 - `docs/` – Dokumentation, Konzepte und technische Notizen
-
+[System Architecture Diagram](docs/system-architecture.md)
 ---
 
 ## Meilensteine
@@ -83,6 +83,7 @@ The project is organized into the following main areas:
 - `firmware/` – C code for microcontrollers (e.g., motor control, sensor handling)
 - `software/` – Python code for control logic, navigation, voice recognition, etc.
 - `docs/` – Documentation, concepts, and technical notes
+[System Architecture Diagram](docs/system-architecture.md)
 
 ---
 
