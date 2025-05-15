@@ -145,4 +145,3 @@ Daher: Immer vertrauenswürdige Dockerfiles verwenden und möglichst selbst baue
 * Erweiterung des Docker-Images für Kamera, GPIO, rclpy?
 * Automatischer Start beim Booten?
 
-Wenn du soweit bist, kannst du darauf aufbauen.
