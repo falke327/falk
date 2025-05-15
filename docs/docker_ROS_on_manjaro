@@ -150,6 +150,4 @@ X11 und `--net=host` + Docker bedeutet wenig Isolierung. Verwende Images nur aus
 | Talker/Listener  | 🔄 Testbereit |
 | rviz2/rqt        | 🔲 Optional   |
 
----
-
 
