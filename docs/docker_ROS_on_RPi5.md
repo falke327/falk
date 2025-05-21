@@ -122,6 +122,29 @@ Beispiel:
 ros2 run demo_nodes_cpp talker
 ```
 
+## Testen der ROS Installationen im Netzwerk
+
+Falls die Docker Container nicht aktiv sind prüfen ob sie noch in docker angelegt sind:
+
+```docker ps -a
+```
+
+Wenn sie da sind einfach starten mit
+
+```docker start -ai <Container_Name>
+```
+
+Dann im Container die ROS Umgebung aktivieren wie in Schritt 5. Und auf dem DEV Rechner anschließend den listener ausführen:
+
+```ros2 run demo_nodes_cpp listener
+```
+
+Wenn dann auf dem Pi analog der talker gestartet wird, sollten wir einen Kommunikationstest sehen.
+
+```ros2 run demo_nodes_cpp talker
+```
+
+
 ---
 
 ## Weitere Hinweise
