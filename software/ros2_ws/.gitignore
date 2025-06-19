@@ -1,0 +1,15 @@
+# ROS2 Build Artefakte
+build/
+install/
+log/
+
+# VSCode und andere Editoren
+.vscode/
+.idea/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Sonstige temporäre Dateien
+*.swp
